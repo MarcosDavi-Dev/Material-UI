@@ -1,0 +1,31 @@
+{
+  "tarefas": [
+    {
+      "tituloTarefa": "Tarefa 1",
+      "descricaoTarefa": "Descrição da Tarefa 1",
+      "inicioTarefa": "2023-11-08",
+      "fimTarefa": "2023-11-08",
+      "recursoTarefa": "Recurso 1",
+      "statusTarefa": "Concluída",
+      "id": 2
+    },
+    {
+      "id": 481,
+      "tituloTarefa": "Tarefa 2",
+      "descricaoTarefa": "Descrição da Tarefa 2",
+      "inicioTarefa": "2023-11-14",
+      "fimTarefa": "2023-11-22",
+      "recursoTarefa": "Recurso 1",
+      "statusTarefa": "Em Andamento"
+    },
+    {
+      "id": 739,
+      "tituloTarefa": "Tarefa 3",
+      "descricaoTarefa": "Descrição da Tarefa 3",
+      "inicioTarefa": "2023-11-14",
+      "fimTarefa": "2023-11-22",
+      "recursoTarefa": "Recurso 1",
+      "statusTarefa": "Aguardando"
+    }
+  ]
+}
